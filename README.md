@@ -1,1 +1,2 @@
-# exercise-1
+# Exercise 1
+Name: Lyudmil Vladimirov
